@@ -1,8 +1,9 @@
 # VUT
 ## Repository of programs done in VUT FIT
 
-### Usefull commands for merlin || eva
+### Usefull commands
 
+**debug** `cd "/VUT/projekt_2/" && gcc -std=c11 -Wall -Wextra -Werror -g -DDEBUG -c maze.c` `cd "/VUT/projekt_2/" && gcc -std=c11 -Wall -Wextra -g -DDEBUG maze.o -o maze_d`
 **copy file from cd (local) to remote linux server** `scp .\file.type xholanv00@eva.fit.vutbr.cz:~`
 **run C compiler with wanted arguments** `gcc -std=c11 -Wall -Wextra -Werror filename.c -o output_filename`
 **view text file content** `cat file.txt`
