@@ -3,19 +3,30 @@
 
 ### Useful commands
 
-**debug** `cd "/VUT/projekt_2/" && gcc -std=c11 -Wall -Wextra -Werror -g -DDEBUG -c maze.c` `cd "/VUT/projekt_2/" && gcc -std=c11 -Wall -Wextra -g -DDEBUG maze.o -o maze_d`
+**debug** 
+
+`cd "/VUT/projekt_2/" && gcc -std=c11 -Wall -Wextra -Werror -g -DDEBUG -c maze.c`
+
+`cd "/VUT/projekt_2/" && gcc -std=c11 -Wall -Wextra -g -DDEBUG maze.o -o maze_d`
+
+**copy file from cd (local) to remote linux server**
+
+`scp .\file.type xholanv00@eva.fit.vutbr.cz:~`
+
+**run C compiler with wanted arguments**
+
+`gcc -std=c11 -Wall -Wextra -Werror filename.c -o output_filename`
+
+**view text file content**
+
+`cat file.txt`
 
 
-**copy file from cd (local) to remote linux server** `scp .\file.type xholanv00@eva.fit.vutbr.cz:~`
 
+**edit file in linux cmd** 
 
-**run C compiler with wanted arguments** `gcc -std=c11 -Wall -Wextra -Werror filename.c -o output_filename`
+`vim filename` `:q` to quit
 
-
-**view text file content** `cat file.txt`
-
-
-**edit file in linux cmd** `vim filename` `:q` to quit
 
 ### School Projects:
 
