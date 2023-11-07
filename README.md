@@ -1,7 +1,7 @@
 # VUT
 ## Repository of programs done in VUT FIT
 
-### Usefull commands
+### Useful commands
 
 **debug** `cd "/VUT/projekt_2/" && gcc -std=c11 -Wall -Wextra -Werror -g -DDEBUG -c maze.c` `cd "/VUT/projekt_2/" && gcc -std=c11 -Wall -Wextra -g -DDEBUG maze.o -o maze_d`
 
