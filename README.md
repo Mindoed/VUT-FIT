@@ -3,12 +3,12 @@
 
 ### Contains:
 
-- 1_Práce s textem[](/projekt_1/) `keyfilter.c` - [assignment link](https://moodle.vut.cz/mod/page/view.php?id=320645)
+- [1](/projekt_1/) Práce s textem &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`keyfilter.c` &nbsp; [assignment link](https://moodle.vut.cz/mod/page/view.php?id=320645)
 
               
-- 2_Práce s datovými strukturami[](/projekt_2/) `maze.c` - [link](https://moodle.vut.cz/mod/page/view.php?id=320646)
+- [2](/projekt_2/) Práce s datovými strukturami &ensp;&emsp; `maze.c` &ensp;&emsp;&emsp; [link](https://moodle.vut.cz/mod/page/view.php?id=320646)
 
-- [Tests](/tests/) Folder where shellscripts are used
+- Tests &emsp;-&emsp;folder where shellscripts are used
 
 ### Essential to run:
 
@@ -16,7 +16,7 @@ In Microsoft Store download `Terminal` & `Ubuntu`
 
 > Open ubuntu in mentioned terminal
 
-Installing gcc:[^1] 
+<sup>[^1]</sup>Installing gcc: 
 ```
 sudo apt-get update && sudo apt-get upgrade -y
 sudo apt autoremove -y
@@ -24,14 +24,14 @@ sudo apt-get install gcc -y
 ```
 
 
-Install Windows Linux Subsystem[^2]
+<sup>[^2]</sup>Install Windows Linux Subsystem
 ```
 apt install wsl - ??
 apt install makefile
 apt install valgrind
 ```
 
-To debug:[^3]
+<sup>[^3]</sup>To debug:
 ```
 sudo apt-get update
 sudo apt-get install build-essential gdb
@@ -62,5 +62,5 @@ sudo apt-get install build-essential gdb
 `vim filename` `:q` to quit
 
 [^1]: https://stackoverflow.com/questions/62215963/how-to-install-gcc-and-gdb-for-wslwindows-subsytem-for-linux
-[^2:]: gl
+[^2]: ![image](https://github.com/Mindoed/VUT/assets/59418963/371cc815-dc4b-4aca-aad8-559484cd3dd4)
 [^3]: https://code.visualstudio.com/docs/cpp/config-wsl
