@@ -3,10 +3,10 @@
 
 ### Contains:
 
-- 1_Práce s textem[_](/projekt_1/) `keyfilter.c` - [assignment link](https://moodle.vut.cz/mod/page/view.php?id=320645)
+- 1_Práce s textem[](/projekt_1/) `keyfilter.c` - [assignment link](https://moodle.vut.cz/mod/page/view.php?id=320645)
 
               
-- 2_Práce s datovými strukturami[_](/projekt_2/) `maze.c` - [link](https://moodle.vut.cz/mod/page/view.php?id=320646)
+- 2_Práce s datovými strukturami[](/projekt_2/) `maze.c` - [link](https://moodle.vut.cz/mod/page/view.php?id=320646)
 
 - [Tests](/tests/) Folder where shellscripts are used
 
