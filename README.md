@@ -6,7 +6,7 @@
 - [1](/projekt_1/) Práce s textem &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`keyfilter.c` &nbsp; [assignment link](https://moodle.vut.cz/mod/page/view.php?id=320645)
 
               
-- [2](/projekt_2/) Práce s datovými strukturami &ensp;&emsp; `maze.c` &ensp;&emsp;&emsp; [link](https://moodle.vut.cz/mod/page/view.php?id=320646)
+- [2](/projekt_2/) Práce s datovými strukturami &ensp;&emsp; `maze.c` &ensp;&emsp;&emsp; [assignment link](https://moodle.vut.cz/mod/page/view.php?id=320646)
 
 - Tests &emsp;-&emsp;folder where shellscripts are used
 
