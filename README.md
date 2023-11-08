@@ -1,7 +1,41 @@
 # VUT
-## Repository of programs done in VUT FIT
+## Repository of programs I've done in VUT FIT
 
-### Useful commands
+### School Projects:
+
+**1_Práce s textem** `keyfilter.c` - [assignment link](https://moodle.vut.cz/mod/page/view.php?id=320645)
+
+              
+**2_Práce s datovými strukturami** `maze.c` - [link](https://moodle.vut.cz/mod/page/view.php?id=320646)
+
+### Essential to run:
+
+In Microsoft Store download `Terminal` & `Ubuntu`
+
+> Open ubuntu in mentioned terminal
+Installing gcc: 
+```
+sudo apt-get update && sudo apt-get upgrade -y
+sudo apt autoremove -y
+sudo apt-get install gcc -y
+```
+
+
+Install Windows Linux Subsystem
+```
+apt install wsl
+apt install makefile
+apt install valgrind
+```
+
+
+To debug:
+```
+sudo apt-get update
+sudo apt-get install build-essential gdb
+```
+
+### Useful Commands
 
 **debug** 
 
@@ -28,12 +62,7 @@
 `vim filename` `:q` to quit
 
 
-### School Projects:
 
-**1_Práce s textem** `keyfilter.c` - [link](https://moodle.vut.cz/mod/page/view.php?id=320645)
-
-              
-**2_Práce s datovými strukturami** `maze.c` - [link](https://moodle.vut.cz/mod/page/view.php?id=320646)
   
 
   
