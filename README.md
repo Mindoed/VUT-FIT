@@ -41,10 +41,8 @@ sudo apt-get install build-essential gdb
 
 **edit git credentials**
 
-```
-git config --global user.name "pc-holanv"
-git config --global user.email "xholanv@fit.vutbr.cz"
-```
+`git config --global user.name "pc-holanv"`
+`git config --global user.email "xholanv@fit.vutbr.cz"`
 
 **debug** 
 
