@@ -43,7 +43,7 @@ sudo apt-get install build-essential gdb
 
 `git config --global user.name "pc-holanv"`
 
-`git config --global user.email "xholanv@fit.vutbr.cz"`
+`git config --global user.email "xholanv00@fit.vutbr.cz"`
 
 **debug** 
 
