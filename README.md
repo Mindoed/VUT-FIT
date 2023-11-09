@@ -39,6 +39,13 @@ sudo apt-get install build-essential gdb
 
 ### Useful Commands
 
+**edit git credentials**
+
+```
+git config --global user.name "pc-holanv"
+git config --global user.email "xholanv@fit.vutbr.cz"
+```
+
 **debug** 
 
 `cd "/VUT/projekt_2/" && gcc -std=c11 -Wall -Wextra -Werror -g -DDEBUG -c maze.c`
