@@ -3,15 +3,15 @@
 
 ### IZP:
 
-- [Projekt1](.vscode/IZP/projekt_1/): Práce s textem &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`keyfilter.c` &nbsp; [assignment link](https://moodle.vut.cz/mod/page/view.php?id=320645)
+- [Projekt1](/IZP/projekt_1/): Práce s textem &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`keyfilter.c` &nbsp; [assignment link](https://moodle.vut.cz/mod/page/view.php?id=320645)
 
               
-- [Projekt2](.vscode/IZP/projekt_2/): Práce s datovými strukturami &ensp;&emsp; `maze.c` &ensp;&emsp;&emsp; [assignment link](https://moodle.vut.cz/mod/page/view.php?id=320646)
+- [Projekt2](/IZP/projekt_2/): Práce s datovými strukturami &ensp;&emsp; `maze.c` &ensp;&emsp;&emsp; [assignment link](https://moodle.vut.cz/mod/page/view.php?id=320646)
 
 
 ### IZLO:
 
-- [Projekt1](/IZLO): SAT solvery
+- [Projekt1](/IZLO/Projekt1): SAT solvery
 
 ### Essential to run:
 
