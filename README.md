@@ -1,17 +1,12 @@
 # VUT
 ## Repository of my projects 2023/24
 
-### IZP:
-
-- [Projekt1](/IZP/projekt_1/): Práce s textem &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`keyfilter.c` &nbsp; [assignment link](https://moodle.vut.cz/mod/page/view.php?id=320645)
-
-              
-- [Projekt2](/IZP/projekt_2/): Práce s datovými strukturami &ensp;&emsp; `maze.c` &ensp;&emsp;&emsp; [assignment link](https://moodle.vut.cz/mod/page/view.php?id=320646)
-
-
 ### IZLO:
+- [Projekt 1](/IZLO/Projekt1): SAT solvery &ensp;&emsp; `add_conditions.c` &nbsp; [assignment link](https://www.fit.vutbr.cz/study/courses/IZLO/public/projekty/projekt1/zadani.html#zad%C3%A1n%C3%AD)
+### IZP:
+- [Projekt 1](/IZP/projekt_1/): Práce s textem &ensp;&emsp; `keyfilter.c` &nbsp; [assignment link](https://moodle.vut.cz/mod/page/view.php?id=320645)             
+- [Projekt 2](/IZP/projekt_2/): Práce s datovými strukturami &ensp;&emsp; `maze.c` &nbsp; [assignment link](https://moodle.vut.cz/mod/page/view.php?id=320646)
 
-- [Projekt1](/IZLO/Projekt1): SAT solvery
 
 ### Essential to run:
 
