@@ -59,5 +59,5 @@ This repository serves as a collection of projects from various courses at BUT F
 > **Disclaimer regarding offensive language:**  
 > This repository is intended for personal purposes, such as porfolio showcase or reference. Some commit messages or code comments may contain language or expressions that could be considered inappropriate or offensive. These do not reflect the views of the author or the institution and are remnants of the development process.
 
->**Disclaimer regarding commit history:**
+>**Disclaimer regarding commit history:**   
 >Please note that the commit history may appear inconsistent or unclear, especially in projects that were created early on or were not versioned from the start.
