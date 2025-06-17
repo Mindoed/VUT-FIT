@@ -1,70 +1,52 @@
-# VUT
-## Repository of my projects 2023/24
+# BUT FIT Coursework Repository
 
-### IZLO:
-- [Projekt 1](/IZLO/Projekt1): SAT solvery &ensp;&emsp; `add_conditions.c` &nbsp; [assignment link](https://www.fit.vutbr.cz/study/courses/IZLO/public/projekty/projekt1/zadani.html#zad%C3%A1n%C3%AD)
-### IZP:
-- [Projekt 1](/IZP/projekt_1/): Práce s textem &ensp;&emsp; `keyfilter.c` &nbsp; [assignment link](https://moodle.vut.cz/mod/page/view.php?id=320645)             
-- [Projekt 2](/IZP/projekt_2/): Práce s datovými strukturami &ensp;&emsp; `maze.c` &nbsp; [assignment link](https://moodle.vut.cz/mod/page/view.php?id=320646)
+This repository serves as a collection of projects from various courses at BUT FIT, organized as submodules. Each module contains projects or homeworks completed during the given course.
 
+## Summary of the courses
+### 4. Semester
+ - **ICP** – The C++ Programming Language ([repo](https://github.com/Mindoed/ICP))  ([course](https://www.fit.vut.cz/study/course/281029/.en?type=Bc))
+    - *`FSM Editor`*: Editor and interpreter for Moore's finite state machines.
 
-### Essential to run:
+- **IDS** – Database Systems ([repo](https://github.com/Mindoed/IDS))  ([course](https://www.fit.vut.cz/study/course/280905/.en?type=Bc))
+    - *`SQL Database`*: Designed and implemented a relational database for a hotel reservation system.
 
-In Microsoft Store download `Terminal` & `Ubuntu`
+- **IPP** – Principles of Programming Languages ([repo](https://github.com/Mindoed/IPP))  ([course](https://www.fit.vut.cz/study/course/280937/.en?type=Bc))
+    - *(1)* *`SOL25 Parser`*: A parser written in `Python` of a programming language inspired by small talk.
+    - *(2)* *`SOL25 Interpret`*: An interpret written in `PHP`.
 
-> Open ubuntu in mentioned terminal
+- **IZU** – Fundamentals of Artificial Intelligence ([repo](https://github.com/Mindoed/IZU))  ([course](https://www.fit.vut.cz/study/course/281005/.en?type=Bc))
+    - *(1)*  Finding a shortest path using `A* method`.
+    - *(2)* In `prolog`, iterating through an array, for a reason specified by assignment.
+    - *(3)* Doing iteration of one path using `TD-Learning method`.
+    - *(4)* Demonstrating a princip of `ID3` algorithm
 
-<sup>[^1]</sup>Installing gcc: 
-```
-sudo apt-get update && sudo apt-get upgrade -y
-sudo apt autoremove -y
-sudo apt-get install gcc -y
-```
+- **IPK** – Computer Communications and Networks ([repo](https://github.com/Mindoed/IPK))  ([course](https://www.fit.vut.cz/study/course/280936/.en?type=Bc))
+    - *(1)* *`L4 Scanner`*: Checks if a specified port+protocol of a domain/IP-address is OPEN/CLOSED/FILTERED.
+    - *(2)* *`Chat Client`*: Implementation of a chat client over TCP and UDP protocols.
+    - Both projects were done in `C++`.
 
+### 3. Semester
+- **IAL** – Algorithms ([repo](https://github.com/Mindoed/IAL))  ([course](https://www.fit.vut.cz/study/course/280900/.en?type=Bc))
+    - *(1)* Implementation of data structures in `C`: *Linked-List*, *Queue* and *Doubly-Linked-List*.
+    - *(2)* Implementations of a *Binary-tree* (iterative & recursive) and a *Hashtable* in `C`.
 
-<sup>[^2]</sup>Install Windows Linux Subsystem
-```
-apt install wsl - ??
-apt install makefile
-apt install valgrind
-```
+- **INP** – Design of Computer Systems ([repo](https://github.com/Mindoed/INP))  ([course](https://www.fit.vut.cz/study/course/281147/.en?type=Bc))
+    - *(1)* *Simple 8-bit CPU*: BrainFuck interpreter implemented in `VHDL`.
+    - *(2)* *Vigenere cipher* in `MIPS64 assembly` code.
 
-<sup>[^3]</sup>To debug:
-```
-sudo apt-get update
-sudo apt-get install build-essential gdb
-```
+### 2. Semester
+- **IOS** – Operating Systems ([repo](https://github.com/Mindoed/IOS)) ([course](https://www.fit.vut.cz/study/course/280995/.en?type=Bc))
+    - *(1)* *`Bash script`*: proccesing user account logs and allowing filtered queries/reports.
+    - *(2)* *Skiers and busses*: A `multi-proccess` program using `shared memory` and `semaphores` done in `C`.
 
-### Useful Commands
+- **INC** – Digital Systems Design ([repo](https://github.com/Mindoed/INC)) ([course](https://www.fit.vut.cz/study/course/281145/.en?type=Bc))
+    - Implementing a *finite state machine* based of an assignment done in `VHDL`.
 
-**edit git credentials**
+- **IZLO** – Introduction to Logic for Computer Science ([repo](https://github.com/Mindoed/IZLO)) ([course](https://www.fit.vut.cz/study/course/281004/.en?type=Bc))
+    - Practical usage of *SMT solvers* done in `C`.
 
-`git config --global user.name "pc-holanv"`
+### 1. Semester
+- **IZP** – Introduction to Programming Systems ([repo](https://github.com/Mindoed/IZP)) ([course](https://www.fit.vut.cz/study/course/280953/.en?type=Bc))
+    - *(1)* *`keyfilter.c`*: Filters words in stdin based of a prefix from argv done in `C`.
+    - *(2)* *`maze.c`*: Finds a path through a maze, can find shortest if specified. Done in `C`.
 
-`git config --global user.email "xholanv00@fit.vutbr.cz"`
-
-**debug** 
-
-`cd "/VUT/projekt_2/" && gcc -std=c11 -Wall -Wextra -Werror -g -DDEBUG -c maze.c`
-
-`cd "/VUT/projekt_2/" && gcc -std=c11 -Wall -Wextra -g -DDEBUG maze.o -o maze_d`
-
-**copy file from cd (local) to remote linux server**
-
-`scp .\file.type xholanv00@eva.fit.vutbr.cz:~`
-
-**run C compiler with wanted arguments**
-
-`gcc -std=c11 -Wall -Wextra -Werror filename.c -o output_filename`
-
-**view text file content**
-
-`cat file.txt`
-
-**edit file in linux cmd** 
-
-`vim filename` `:q` to quit
-
-[^1]: https://stackoverflow.com/questions/62215963/how-to-install-gcc-and-gdb-for-wslwindows-subsytem-for-linux
-[^2]: ![image](https://github.com/Mindoed/VUT/assets/59418963/371cc815-dc4b-4aca-aad8-559484cd3dd4)
-[^3]: https://code.visualstudio.com/docs/cpp/config-wsl
