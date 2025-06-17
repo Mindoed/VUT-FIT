@@ -2,6 +2,9 @@
 
 This repository serves as a collection of projects from various courses at BUT FIT, organized as submodules. Each module contains projects or homeworks completed during the given course.
 
+The courses repos are currently set to **private**, so you will not be able to access their contents.
+If you would like to access any of the project contents, feel free to contact me.
+
 ## Summary of the courses
 ### 4. Semester
  - **ICP** – The C++ Programming Language ([repo](https://github.com/Mindoed/ICP))  ([course](https://www.fit.vut.cz/study/course/281029/.en?type=Bc))
