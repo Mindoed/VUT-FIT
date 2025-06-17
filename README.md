@@ -5,7 +5,7 @@ This repository serves as a collection of projects from various courses at BUT F
 ## Summary of the courses
 ### 4. Semester
  - **ICP** – The C++ Programming Language ([repo](https://github.com/Mindoed/ICP))  ([course](https://www.fit.vut.cz/study/course/281029/.en?type=Bc))
-    - *`FSM Editor`*: Editor and interpreter for Moore's finite state machines.
+    - *`FSM Editor`*: Editor and interpreter for Moore's finite state machines. Implemented using `Qt` and `QML` (*QtCreator*).
 
 - **IDS** – Database Systems ([repo](https://github.com/Mindoed/IDS))  ([course](https://www.fit.vut.cz/study/course/280905/.en?type=Bc))
     - *`SQL Database`*: Designed and implemented a relational database for a hotel reservation system.
