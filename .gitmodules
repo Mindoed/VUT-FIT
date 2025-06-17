@@ -31,3 +31,6 @@
 [submodule "4-IPK"]
 	path = 4-IPK
 	url = git@github.com:Mindoed/IPK.git
+[submodule "4-IFJ"]
+	path = 4-IFJ
+	url = git@github.com:Mindoed/IFJ.git

@@ -29,11 +29,15 @@ This repository serves as a collection of projects from various courses at BUT F
 - **IAL** – Algorithms ([repo](https://github.com/Mindoed/IAL))  ([course](https://www.fit.vut.cz/study/course/280900/.en?type=Bc))
     - *(1)* Implementation of data structures in `C`: *Linked-List*, *Queue* and *Doubly-Linked-List*.
     - *(2)* Implementations of a *Binary-tree* (iterative & recursive) and a *Hashtable* in `C`.
+    - A *Hashtable with open adressing* was used in *IFJ project*
+
+- **IFJ** - Formal Languages and Compilers ([repo](https://github.com/Mindoed/IFJ))  ([course](https://www.fit.vut.cz/study/course/280931/.en?type=Bc))
+    - *`IFJ24 Parser`*: Implementation of *lexer*, *syntactic analysis*, *semantic analysis*, *code generation*, all done in `C`.
 
 - **INP** – Design of Computer Systems ([repo](https://github.com/Mindoed/INP))  ([course](https://www.fit.vut.cz/study/course/281147/.en?type=Bc))
     - *(1)* *Simple 8-bit CPU*: BrainFuck interpreter implemented in `VHDL`.
     - *(2)* *Vigenere cipher* in `MIPS64 assembly` code.
-
+    
 ### 2. Semester
 - **IOS** – Operating Systems ([repo](https://github.com/Mindoed/IOS)) ([course](https://www.fit.vut.cz/study/course/280995/.en?type=Bc))
     - *(1)* *`Bash script`*: proccesing user account logs and allowing filtered queries/reports.
