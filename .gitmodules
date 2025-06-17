@@ -1,3 +1,30 @@
 [submodule "1-IZP"]
 	path = 1-IZP
 	url = git@github.com:Mindoed/IZP.git
+[submodule "2-IOS"]
+	path = 2-IOS
+	url = git@github.com:Mindoed/IOS.git
+[submodule "2-INC"]
+	path = 2-INC
+	url = git@github.com:Mindoed/INC.git
+[submodule "2-IZLO"]
+	path = 2-IZLO
+	url = git@github.com:Mindoed/IZLO.git
+[submodule "3-IAL"]
+	path = 3-IAL
+	url = git@github.com:Mindoed/IAL.git
+[submodule "3-INP"]
+	path = 3-INP
+	url = git@github.com:Mindoed/INP.git
+[submodule "4-ICP"]
+	path = 4-ICP
+	url = git@github.com:Mindoed/ICP.git
+[submodule "4-IDS"]
+	path = 4-IDS
+	url = git@github.com:Mindoed/IDS.git
+[submodule "4-IPP"]
+	path = 4-IPP
+	url = git@github.com:Mindoed/IPP.git
+[submodule "4-IZU"]
+	path = 4-IZU
+	url = git@github.com:Mindoed/IZU.git
