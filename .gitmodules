@@ -28,3 +28,6 @@
 [submodule "4-IZU"]
 	path = 4-IZU
 	url = git@github.com:Mindoed/IZU.git
+[submodule "4-IPK"]
+	path = 4-IPK
+	url = git@github.com:Mindoed/IPK.git
