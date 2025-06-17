@@ -55,7 +55,8 @@ This repository serves as a collection of projects from various courses at BUT F
     - *(1)* *`keyfilter.c`*: Filters words in stdin based of a prefix from argv done in `C`.
     - *(2)* *`maze.c`*: Finds a path through a maze, can find shortest if specified. Done in `C`.
 
-
+---
+---
 > **Disclaimer regarding offensive language:**  
 > This repository is intended for personal purposes, such as porfolio showcase or reference. Some commit messages or code comments may contain language or expressions that could be considered inappropriate or offensive. These do not reflect the views of the author or the institution and are remnants of the development process.
 
