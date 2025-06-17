@@ -14,7 +14,7 @@
 	path = 3-IAL
 	url = git@github.com:Mindoed/IAL.git
 [submodule "3-IFJ"]
-	path = 4-IFJ
+	path = 3-IFJ
 	url = git@github.com:Mindoed/IFJ.git
 [submodule "3-INP"]
 	path = 3-INP
