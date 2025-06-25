@@ -34,3 +34,6 @@
 [submodule "4-IPK"]
 	path = 4-IPK
 	url = git@github.com:Mindoed/IPK.git
+[submodule "5-ITU"]
+	path = 5-ITU
+	url = ./5-ITU/
