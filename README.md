@@ -6,6 +6,10 @@ The courses repos are currently set to **private**, so you will not be able to a
 If you would like to access any of the project contents, feel free to contact me.
 
 ## Summary of the courses
+### 5. Semester
+- **ICP** – User Interface Programming (([repo](https://github.com/Mindoed/ITU))) ([course](https://www.fit.vut.cz/study/course/281096/.en?type=Bc))
+    - *`Wrooms`* - game similar to *Worms*, made using `Flutter` and `C++` as backend.
+
 ### 4. Semester
  - **ICP** – The C++ Programming Language ([repo](https://github.com/Mindoed/ICP))  ([course](https://www.fit.vut.cz/study/course/281029/.en?type=Bc))
     - *`FSM Editor`*: Editor and interpreter for Moore's finite state machines. Implemented using `Qt` and `QML` (*QtCreator*).
