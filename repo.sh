@@ -19,28 +19,33 @@ Note:
   Fix is planned, but it you have to remove it manually for now.
   Other issues may occur.
     "
-    echo -n "Are you sure you want to remove the submodule '$submodule_name'? [y/n] "
+    echo -n "Are you sure you want to remove the submodule '$submodule_name'? [y/n]
+"
     read -n 1 confirm
     echo
     if [[ "$confirm" != "y" && "$confirm" != "Y" ]]; then
         echo "Aborted."
         exit 0
     fi
-    
-    echo "Removing submodule entry from .gitmodules"
+    i=1
+    cnt=3
+
+    echo "
+[$i/$cnt] Removing submodule entry from .gitmodules."
     git config -f .gitmodules --remove-section submodule."$submodule_name" 2>/dev/null
-    
-    echo "Removing submodule entry from .git/config"
+    i=$((i + 1))
+
+
+    echo "[$i/$cnt] Removing submodule entry from .git/config."
     git config --remove-section submodule."$submodule_name" 2>/dev/null
+    i=$((i + 1))
     
-    echo "Removing submodule files"
+    echo "[$i/$cnt] Removing submodule files."
     git rm --cached "$submodule_name"
     rm -rf "$submodule_name"
     rm -rf ".git/modules/$submodule_name"
-    
-    echo "Staging changes"
-    git add .gitmodules
-    
+    $i=$((i + 1))
+
 else
     echo "Usage: "
     echo "  $0 add submodule <repository_name> <semester_number>"
