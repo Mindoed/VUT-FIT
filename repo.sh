@@ -10,6 +10,7 @@ if [[ "$1" == "add" && "$2" == "submodule" && -n "$repo_name" && -n "$sem" ]]; t
     echo "Creating submodule '$submodule_name'" 
     
     git submodule add git@github.com:Mindoed/"$repo_name".git "$sem"-"$repo_name"
+    git clone git@github.com:Mindoed/"$repo_name".git "$sem"-"$repo_name"
     git add .gitmodules "$submodule_name"
     
 elif [[ "$1" == "remove" && "$2" == "submodule" && -n "$repo_name" && -n "$sem" ]]; then
