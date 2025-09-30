@@ -7,7 +7,10 @@ If you would like to access any of the project contents, feel free to contact me
 
 ## Summary of the courses
 ### 5. Semester
-- **ICP** – User Interface Programming (([repo](https://github.com/Mindoed/ITU))) ([course](https://www.fit.vut.cz/study/course/281096/.en?type=Bc))
+- **IIS** – Information Systems ([repo](https://github.com/Mindoed/IIS)) ([course](https://www.fit.vut.cz/study/course/280933/.en?type=Bc))
+    - *`Web app`*: A web application for managing school turnaments, made using `HTML5`+`CSS`+`Javascript` for frontend and `Laravel` a `php` framework for backend.
+
+- **ITU** – User Interface Programming ([repo](https://github.com/Mindoed/ITU)) ([course](https://www.fit.vut.cz/study/course/281096/.en?type=Bc))
     - *`Wrooms`* - game similar to *Worms*, made using `Flutter` and `C++` as backend.
 
 ### 4. Semester
