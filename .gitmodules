@@ -40,3 +40,6 @@
 [submodule "5-IIS"]
 	path = 5-IIS
 	url = git@github.com:Mindoed/IIS.git
+[submodule "5-IMP"]
+	path = 5-IMP
+	url = git@github.com:Mindoed/IMP.git
