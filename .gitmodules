@@ -43,3 +43,6 @@
 [submodule "5-IMP"]
 	path = 5-IMP
 	url = git@github.com:Mindoed/IMP.git
+[submodule "6-IPK_redo"]
+	path = 6-IPK_redo
+	url = git@github.com:Mindoed/IPK_redo.git
