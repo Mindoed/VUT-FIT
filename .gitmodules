@@ -62,3 +62,6 @@
 	path = 6-IPK_redo
 	url = git@github.com:Mindoed/IPK_redo.git
 	branch = master
+[submodule "5-ISA"]
+	path = 5-ISA
+	url = git@github.com:Mindoed/ISA.git
